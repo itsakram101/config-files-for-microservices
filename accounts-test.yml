@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts related to test env APIs "
+  message: "Accounts related to test env !!! APIs "
   contactDetails:
     name: "Accounts Product Owner"
     email: "john@test.com"
