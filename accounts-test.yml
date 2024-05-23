@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts related to test 3.0 APIs "
+  message: "Accounts related to test 1.0 APIs "
   contactDetails:
     name: "Accounts Product Owner"
     email: "john@test.com"
